@@ -1,0 +1,12 @@
+
+{
+  "name": "hyper-tn80s",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:sixninetynine/hyper-tn80s",
+    "type": "git"
+  },
+  "author": "loren carvalho <comradeloren@gmail.com>",
+  "license": "MIT"
+}
